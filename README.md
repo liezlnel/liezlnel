@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liezlnel
-- 👀 I’m interested in Azure Architecture and Everything Azure, SAP HANA on Azure, Sybase to Azure
+- 👀 I’m interested in Azure Architecture and Everything Azure, SAP on Azure, SAP HANA on Azure, Sybase to Azure
 - ✨ I love Azure, SAP HANA, Sybase ASE, Sybase IQ, SQL
 - 🌱 I’m currently learning Azure, SAP Migrations to Azure, Azure Security, Azure Purview, ADF, Synapse
 - 💞️ I’m looking to collaborate on how to become a WHITE HAT hacker :) in my free time or to Invent something Brilliant :)
